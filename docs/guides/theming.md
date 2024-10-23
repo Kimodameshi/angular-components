@@ -26,7 +26,7 @@
 Так выглядит тег `body` в `index.html` после добавления необходимых классов:
 
 ```html
-<body class="kbq-app-background kbq-theme-light">
+<body class="kbq-app-background kbq-light">
     <app></app>
 </body>
 ```
